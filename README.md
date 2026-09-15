@@ -134,6 +134,8 @@ Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourse
 * [Public-private key cryptography](https://security.stackexchange.com/questions/25741/how-can-i-explain-the-concept-of-public-and-private-keys-without-technical-jargo) - Simple explanation on StackExchange
 * [Hash functions](https://medium.com/@ConsenSys/blockchain-underpinnings-hashing-7f4746cbd66b) - Basics of Hashing from Consensys
 * [Homomorphic encryption](https://blog.cryptographyengineering.com/2012/01/02/very-casual-introduction-to-fully/) - Blog post by Matthew Green
+* [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 
 ## License
 
